@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "name": "root",
+      "path": "../"
+    },
+    { "name": "projects > llm_from_scratch",
+      "path": "../projects/llm_from_scratch"
+    }
+  ],
+  "settings": {}
+}
