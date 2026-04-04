@@ -8,5 +8,10 @@
       "path": "../projects/llm_from_scratch"
     }
   ],
-  "settings": {}
+  "settings": {},
+  "extensions": {
+    "recommendations": [
+      "gera2ld.markmap-vscode"
+    ]
+  }
 }
